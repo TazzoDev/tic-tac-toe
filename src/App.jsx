@@ -119,7 +119,7 @@ function App() {
 
             </main>
             <footer className="footer">
-                <div>@TazzoDev</div>
+                <div><a href='https://github.com/TazzoDev'>@TazzoDev</a></div>
             </footer>
         </>
     )
